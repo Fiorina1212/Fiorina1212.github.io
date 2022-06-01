@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About me
 Hi! I am a Ph.D student at Gaoling School of Artifical Intelligence, Renmin University of Chine, supervised by Prof. Rui Yan. Before that, I received my B.S from Beijing University of Post and Telecommunications in 2022. I’m working on dialog system and AI music.
 
 
