@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Ph.D student at Gaoling School of Artifical Intelligence, Renmin University of Chine, supervised by Prof. Rui Yan. Before that, I received my B.S from Beijing University of Post and Telecommunications in 2022. I’m working on dialog system and AI music.
+Hi! I am a Ph.D student at Gaoling School of Artifical Intelligence, Renmin University of China, supervised by Prof. Rui Yan. Before that, I received my B.S from Beijing University of Post and Telecommunications in 2022. I’m working on dialog system and AI music.
 
 
 <!--Selected Publications[(Full list)](https://github.com/trestad/trestad.github.io/publications/) 
