@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Beijing University of Post and Telecommunications, 2018-2022
-* Ph.D in Artificial Intelligence, Renmin University of China, 2022-now
+* B.S. in Computer Science, Beijing University of Post and Telecommunications, 2022
+* Ph.D student in Artificial Intelligence, Renmin University of China, now
 
 Publications
 ======
